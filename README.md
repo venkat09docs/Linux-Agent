@@ -24,3 +24,11 @@ pip install langchain-experimental
 python --version
 
 pip list
+
+cd Linux-Agent/
+
+source venv/bin/activate
+python --version
+
+vi linuxagent.py
+python linuxagent.py
